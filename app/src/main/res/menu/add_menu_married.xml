@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/person_details"
+        android:title="@string/person_details">
+        <menu>
+            <item
+                android:id="@+id/person_id"
+                android:title="@string/hint_enter_your_name" />
+            <item
+                android:id="@+id/person_birth_day"
+                android:title="@string/hint_enter_your_name" />
+        </menu>
+    </item>
+
+    <item android:id="@+id/display_from_root"
+        android:title="@string/draw_from_root"/>
+
+    <item android:id="@+id/display_from_here"
+          android:title="@string/draw_from_here"/>
+
+    <item android:id="@+id/edit_person_detail"
+        android:title="@string/edit"/>
+
+    <item android:id="@+id/add_child"
+        android:title="@string/add_child"/>
+
+    <item android:id="@+id/delete_person"
+        android:title="@string/delete_person"/>
+
+</menu>

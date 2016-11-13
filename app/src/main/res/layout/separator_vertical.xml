@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <View
+        android:id="@+id/separator_vertical"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="3dp"
+        android:layout_height="12dp"
+        android:background="@android:color/black"
+        android:layout_gravity="center_horizontal"
+        tools:showIn="@layout/cell_node"/>

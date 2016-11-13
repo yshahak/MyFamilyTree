@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FamilyTree</string>
+    <string name="add_child">Add child</string>
+    <string name="create">Create</string>
+    <string name="create_your_tree">Create your tree</string>
+    <string name="hint_enter_your_name">Insert name...</string>
+    <string name="hint_enter_your_id">Insert id...</string>
+    <string name="state_male">Male</string>
+    <string name="state_female">Female</string>
+    <string name="set_bd">Insert birth day:</string>
+    <string name="save">Save</string>
+    <string name="add_partner">Add partner</string>
+    <string name="draw_from_here">Start tree from %1$s</string>
+    <string name="draw_from_root">Start tree from root</string>
+
+    <string name="tag_node">tagNode</string>
+    <string name="edit">Edit person</string>
+    <string name="tag_person">tagPerson</string>
+    <string name="delete_person">Delete this person</string>
+    <string name="form_invalid">You must complete the form</string>
+    <string name="form_number_invalid">The ID must contain only numbers</string>
+    <string name="form_invalid_exist">Save of this person fail, record of this person already exist in data</string>
+    <string name="person_details">%1$s details: </string>
+</resources>
